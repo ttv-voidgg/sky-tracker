@@ -1,3 +1,16 @@
+---
+title: SkyTracker
+description: A real-time flight tracking application built with Next.js and Three.js.
+date: 2025-05-14
+image: https://skytracker.eejay.me/banner.png 
+category: Development
+author:
+ name: Juan Carlos de Borja
+ role: Developer and Author
+ avatar: https://github.com/ttv-voidgg.png  
+---
+
+
 # SkyTracker - Flight Tracking Application
 
 SkyTracker is a real-time flight tracking application built with Next.js and Three.js. It allows users to search for flights by flight number and view detailed information about the flight, including departure and arrival times, flight status, and more.
