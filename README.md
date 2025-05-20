@@ -1,8 +1,7 @@
 ---
 title: SkyTracker
 description: A real-time flight tracking application built with Next.js and Three.js.
-date: 2025-05-14
-image: 
+date: 2025-05-14 
 site: https://skytracker.eejay.me
 category: Development
 author:
