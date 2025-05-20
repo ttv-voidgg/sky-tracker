@@ -1,20 +1,3 @@
----
-title: SkyTracker
-description: A brief description of your repository that will appear in the blog card.
-date: 2023-04-15
-image: https://cdn-icons-png.freepik.com/512/2105/2105973.png
-category: Development
-author:
-  name: Your Name
-  role: Developer
-  avatar: https://url-to-your-avatar.jpg
----
-
-# Repository Name
-
-Rest of your regular README content goes here...
-
-
 # SkyTracker - Flight Tracking Application
 
 SkyTracker is a real-time flight tracking application built with Next.js and Three.js. It allows users to search for flights by flight number and view detailed information about the flight, including departure and arrival times, flight status, and more.
